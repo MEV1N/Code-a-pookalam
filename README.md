@@ -1,1 +1,2 @@
-# Mevin-Aby-Manu_2024_MBC
+MBC 1st year computer science student
+Made using python
